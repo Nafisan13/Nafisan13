@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, my name is Nafis Ahmad Naqila, I study at SMKN 1 Tanah Grogot.</h1>
+<h1 align="center">👋 Hi, my name is Nafis Ahmad Naqila.</h1>
 <div align="center">
   <img width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s"/>
   &nbsp;
