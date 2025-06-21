@@ -2,8 +2,6 @@
 <div align="center">
   <img width="50px" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKfxxgtvjoywpYYFjqCM2IByvFIxA6n40Wtw&s"/>
   &nbsp;
-  <img width="50px" height="50px" src="https://www.openxcell.com/wp-content/uploads/2021/11/dango-inner-2.png"/>
-  &nbsp;
   <img width="50px" height="50px" src="https://vitejs.dev/logo.svg" alt="next-js" />
   &nbsp;
   <img width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" />
