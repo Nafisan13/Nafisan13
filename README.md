@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafis Ahmad Naqila</h1>
-<h3 align="center">A person who hopes to become a reliable programmer</h3>
+<h3 align="center">A person who hopes to become...</h3>
 
 ###
 
